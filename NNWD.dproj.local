@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/07 13:30:28.000.740,=D:\Dev\AppletModule1.pas</Transaction>
+    <Transaction>2018/05/07 13:31:16.070,D:\Dev\NNWD\NNWD.dproj=D:\Dev\Project1.dproj</Transaction>
+    <Transaction>2018/05/07 13:49:21.786,=D:\Dev\NNWD\Unit1.pas</Transaction>
+    <Transaction>2018/05/07 13:49:36.628,D:\Dev\NNWD\NeuralNetwork.pas=D:\Dev\NNWD\Unit1.pas</Transaction>
+    <Transaction>2018/05/07 19:47:59.561,D:\Dev\NNWD\NNWD.dproj=D:\Dev\NNWD\NNWD.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
